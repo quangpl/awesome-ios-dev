@@ -1,5 +1,12 @@
 # Awesome iOS Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <a href="https://github.com/quangpl/awesome-ios-dev/stargazers"><img src="https://img.shields.io/github/stars/quangpl/awesome-ios-dev?style=flat-square&logo=github&color=gold" alt="Stars"></a>
+  <a href="https://github.com/quangpl/awesome-ios-dev/commits/main"><img src="https://img.shields.io/github/last-commit/quangpl/awesome-ios-dev?style=flat-square&color=blue" alt="Last commit"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
+
 A curated list of the best libraries, frameworks, tools, and resources for modern iOS development with Swift and SwiftUI in 2026. Covering Swift Concurrency, SwiftData, UIKit, Xcode, testing, architecture, and the full iOS toolchain.
 
 <div align="center">
