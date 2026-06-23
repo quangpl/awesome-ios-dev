@@ -2,7 +2,26 @@
 
 A curated list of the best libraries, frameworks, tools, and resources for modern iOS development with Swift and SwiftUI in 2026. Covering Swift Concurrency, SwiftData, UIKit, Xcode, testing, architecture, and the full iOS toolchain.
 
-> **From the team behind [Extension Booster](https://extensionbooster.net)**, the growth platform for extension and app developers. Get real reviews, cross-marketplace analytics, and discovery tools to grow what you ship. [Learn more →](https://extensionbooster.net)
+<div align="center">
+
+<a href="https://extensionbooster.net">
+  <img src="https://extensionbooster.net/logo.webp" alt="Extension Booster" width="150" />
+</a>
+
+<h3>💎 &nbsp;DIAMOND SPONSOR&nbsp; 💎</h3>
+
+<p>
+  <b><a href="https://extensionbooster.net">Extension Booster</a></b><br/>
+  <sub>The growth platform for extension and app developers</sub>
+</p>
+
+<p>
+  <sub>⭐ Real reviews &nbsp;·&nbsp; 📊 Cross-marketplace analytics (Chrome · Edge · Android · Workspace) &nbsp;·&nbsp; 🔁 Manifest V2 to V3 converter</sub>
+</p>
+
+<a href="https://extensionbooster.net"><b>🚀 Start free at extensionbooster.net →</b></a>
+
+</div>
 
 ## Contents
 
@@ -215,9 +234,9 @@ Contributions welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidel
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for full terms.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Quang Phan.
 
 ---
 
