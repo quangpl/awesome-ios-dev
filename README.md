@@ -43,6 +43,7 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [Sample Open-Source Apps](#sample-open-source-apps)
 - [Cross-Platform](#cross-platform)
 - [Communities, Newsletters, and Podcasts](#communities-newsletters-and-podcasts)
+- [Security and Keychain](#security-and-keychain)
 - [Tools and Utilities](#tools-and-utilities)
 - [Contributing](#contributing)
 - [License](#license)
@@ -214,6 +215,14 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [Swift Forums](https://forums.swift.org) - The official discussion board for Swift evolution, packages, and the open-source Swift community.
 - [Donny Wals](https://www.donnywals.com) - Practical articles on Swift Concurrency, SwiftData, and modern iOS development patterns.
 - [Emerge Tools Blog](https://www.emergetools.com/blog) - Engineering blog covering iOS performance, binary size reduction, and SwiftUI internals.
+
+## Security and Keychain
+
+Libraries for secure storage and cryptography on Apple platforms.
+
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - A simple, expressive Swift wrapper for the iOS, macOS, watchOS, and tvOS Keychain.
+- [Valet](https://github.com/square/Valet) - Square's library for securely storing data in the Keychain without needing to know how the Keychain works.
+- [swift-crypto](https://github.com/apple/swift-crypto) - Apple's open-source implementation of the CryptoKit API, usable across Apple platforms and Linux.
 
 ## Tools and Utilities
 
