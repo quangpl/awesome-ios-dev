@@ -83,7 +83,7 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [Lottie for iOS](https://github.com/airbnb/lottie-ios) - Airbnb's library for rendering After Effects vector animations natively on iOS with SwiftUI support.
 - [swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit and AppKit components from SwiftUI views without private APIs.
 - [Charts](https://developer.apple.com/documentation/charts) - Apple's native Swift Charts framework for building beautiful, accessible data visualizations in SwiftUI.
-- [Shimmer](https://github.com/markiv/Shimmer) - A super-light SwiftUI modifier for adding a shimmering effect to any view.
+- [SwiftUI Shimmer](https://github.com/markiv/SwiftUI-Shimmer) - A super-light SwiftUI modifier for adding a shimmering effect to any view.
 - [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - Swift package for adding configurable confetti animations to SwiftUI views.
 - [MarkdownUI](https://github.com/gonzalezreal/swift-markdown-ui) - Render and style GitHub Flavored Markdown in SwiftUI with images, tables, and code blocks (maintenance mode, successor: Textual).
 
@@ -170,7 +170,7 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - An opinionated code formatter for Swift source files, fully configurable and runnable as a build phase.
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A meta-programming tool for Swift that generates boilerplate code from annotations using Stencil or Swift templates.
 - [periphery](https://github.com/peripheryapp/periphery) - Detects unused Swift declarations to help reduce code bloat and keep your codebase clean.
-- [BuildBuddy / Bazel for iOS](https://github.com/buildbuddy-io/bazel-ios-tutorial) - Resources for adopting Bazel-based builds for large-scale iOS projects requiring extreme build performance.
+- [rules_apple (Bazel)](https://github.com/bazelbuild/rules_apple) - Official Bazel rules for building and bundling Apple platform apps, used for large-scale iOS projects requiring extreme build performance.
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot reloading workflow for Swift and SwiftUI that lets you see code changes instantly without rebuilding.
 
 ## CI/CD and Distribution
