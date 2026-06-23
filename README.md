@@ -85,6 +85,7 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [Charts](https://developer.apple.com/documentation/charts) - Apple's native Swift Charts framework for building beautiful, accessible data visualizations in SwiftUI.
 - [Shimmer](https://github.com/markiv/Shimmer) - A super-light SwiftUI modifier for adding a shimmering effect to any view.
 - [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - Swift package for adding configurable confetti animations to SwiftUI views.
+- [MarkdownUI](https://github.com/gonzalezreal/swift-markdown-ui) - Render and style GitHub Flavored Markdown in SwiftUI with images, tables, and code blocks (maintenance mode, successor: Textual).
 
 ## Architecture
 
@@ -94,6 +95,7 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [Point-Free Episodes](https://www.pointfree.co) - Video series by Brandon Williams and Stephen Celis covering advanced Swift, functional programming, and TCA in depth.
 - [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) - Point-Free's dependency management library inspired by SwiftUI's environment, enabling controlled side effects.
 - [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - A curated list of iOS architecture resources, patterns, and example projects.
+- [swift-sharing](https://github.com/pointfreeco/swift-sharing) - Point-Free's universal solution for persistence and state sharing across SwiftUI, @Observable models, and UIKit with full testability.
 
 ## Dependency Injection
 
@@ -169,6 +171,7 @@ A curated list of the best libraries, frameworks, tools, and resources for moder
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A meta-programming tool for Swift that generates boilerplate code from annotations using Stencil or Swift templates.
 - [periphery](https://github.com/peripheryapp/periphery) - Detects unused Swift declarations to help reduce code bloat and keep your codebase clean.
 - [BuildBuddy / Bazel for iOS](https://github.com/buildbuddy-io/bazel-ios-tutorial) - Resources for adopting Bazel-based builds for large-scale iOS projects requiring extreme build performance.
+- [Inject](https://github.com/krzysztofzablocki/Inject) - Hot reloading workflow for Swift and SwiftUI that lets you see code changes instantly without rebuilding.
 
 ## CI/CD and Distribution
 
